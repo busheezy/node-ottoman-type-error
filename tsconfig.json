@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./built",
+    "allowJs": true,
+    "target": "ES2015",
+    "esModuleInterop": true,
+
+    //"module": "commonjs",
+    //"moduleResolution": "node"
+  },
+  "include": ["./app/**/*"]
+}
